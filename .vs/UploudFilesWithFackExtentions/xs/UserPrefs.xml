@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{5D5AE3B8-F885-44D7-9755-F11DFA90A097}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UploudFilesWithFackExtentions/Program.cs">
+    <Files>
+      <File FileName="UploudFilesWithFackExtentions/Controllers/FilesController.cs" />
+      <File FileName="UploudFilesWithFackExtentions/Views/Files/Index.cshtml" />
+      <File FileName="UploudFilesWithFackExtentions/Models/ApplicationDbContext.cs" />
+      <File FileName="UploudFilesWithFackExtentions/Models/UploadedFile.cs" />
+      <File FileName="UploudFilesWithFackExtentions/wwwroot/uploads/11jgghsz.weh" />
+      <File FileName="UploudFilesWithFackExtentions/Views/Files/Upload.cshtml" />
+      <File FileName="UploudFilesWithFackExtentions/appsettings.json" />
+      <File FileName="UploudFilesWithFackExtentions/Program.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UploudFilesWithFackExtentions" expanded="True">
+            <Node name="UploudFilesWithFackExtentions" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Files" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="ViweModels" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="uploads" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UploudFilesWithFackExtentions PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/apple/Projects/UploudFilesWithFackExtentions/UploudFilesWithFackExtentions/Controllers/FilesController.cs" relfile="UploudFilesWithFackExtentions/Controllers/FilesController.cs" line="83" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

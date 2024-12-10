@@ -1,0 +1,19 @@
+﻿@model IEnumerable<UploadedFile>  
+
+@{ViewData["Title"]= "Files"; }
+
+<h1>Uploaded Fils</h1>
+
+<a class="btn btn-primary mb-3" asp-action="Upload">Upload</a>
+
+<ul class="list-group">
+    @foreach (var file in Model)
+    {
+        <li class="list-group-item d-flex justify-content-between">
+            <span>@file.FileName</span>
+            <a class="btn btn-success" asp-action="DownloadFile" asp-route-fileName="@file.StoredFileName">Download</a>
+        </li>
+    }
+        
+</ul>
+    

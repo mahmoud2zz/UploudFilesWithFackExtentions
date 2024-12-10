@@ -1,0 +1,25 @@
+﻿@model UploudFilesWithFackExtentions.ViweModels.UploadfilesFormViewModel
+
+@{ViewData["Title"] = "Upload Files"; }
+
+
+<div class="card">
+
+    <div class="card-body">
+
+        <form method="post" asp-action="UploadedFile" enctype="multipart/form-data">
+
+            <label asp-for="Files" class="form-label"></label>
+
+            <input type="file" asp-for="Files" class="form-control mb-2 w-50" multiple />
+
+            <button type="submit" class="btn btn-primary">Upload</button>
+
+        </form>
+
+    </div>
+
+
+
+
+</div>
